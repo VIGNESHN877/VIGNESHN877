@@ -7,19 +7,6 @@
 🔗 LinkedIn: [VIGNESH.N](https://www.linkedin.com/in/vignesh-n-snsce/)  
 🔗 Portfolio: [Link to Portfolio](https://vigneshn877.wixsite.com/vignesh-n) *(replace with actual link if available)*  
 
----
-
-
-<img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" />
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-
-
 
 ---
 
@@ -31,11 +18,26 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 ## 🛠 Skills  
 
 ### **Technical**  
-- **Programming**: Java, Python, JavaScript (Full Stack)  
+- **Programming**: Java, Python, JavaScript (Full Stack Development)  
 - **PCB Design**: Eagle, EasyEDA, KiCad (Single-layer PCB fabrication)  
 - **IoT**: Arduino, RFID, Sensor Integration  
 - **Cloud/DB**: AWS, MongoDB  
-- **Tools**: VS Code, Git, Canva  
+- **Tools**: VS Code, Git, Canva
+---
+### 🛠 **Skills**  
+<div align="center">  
+  <img width="48" height="48" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/>  
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3" title="CSS3"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" title="MongoDB"/>  
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/aws.png" alt="AWS" title="AWS"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>  
+</div>  
+---
 
 ### **Certifications**  
 - Salesforce AI Associate & Specialist (2024)  
