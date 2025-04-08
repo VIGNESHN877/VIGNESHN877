@@ -36,7 +36,7 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" title="MongoDB"/>  
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>  
-  <img width="48" height="48" src="https://img.icons8.com/color/48/aws.png" alt="AWS" title="AWS"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services" title = "AWS"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" title="Arduino"/>  
 </div>  
@@ -84,6 +84,18 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 - Technical writing & mentoring  
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vignesh877?theme=unicorn&font=Pontano%20Sans&ext=heatmap)
 
+
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/VIGNESHN_BE_ECE?theme=unicorn&font=Pontano%20Sans&ext=heatmap)
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESHN877&bg_color=cbcbd2&color=9e4c98&line=f42710&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 📌 *For collaboration or queries, reach out via email or GitHub!*  
