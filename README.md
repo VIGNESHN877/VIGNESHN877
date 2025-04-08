@@ -63,7 +63,14 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 **Apr 2023** | IoT | Emergency Response  
 - Created automated alert system for accidents  
 - Integrated with police stations, hospitals and nearby vehicles  
-- Reduced emergency response time by ~40% in simulations  
+- Reduced emergency response time by ~40% in simulations
+
+### 🔐 IoT Automatic Door Lock System  
+**Nov 2023** | Arduino | RFID | Mobile App  
+- Developed secure access control with Arduino/RFID  
+- Implemented remote lock/unlock via smartphone  
+- Enhanced security with encrypted communication  
+
 
 ### 📶 Mobile Network Signal Booster  
 **Dec 2024** | RF Engineering | LM386 IC  
@@ -71,11 +78,6 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 - Improved signal strength by 35% in low-coverage areas  
 - Published in *Zigma Medicare Journal*  
 
-### 🔐 IoT Automatic Door Lock System  
-**Nov 2023** | Arduino | RFID | Mobile App  
-- Developed secure access control with Arduino/RFID  
-- Implemented remote lock/unlock via smartphone  
-- Enhanced security with encrypted communication  
 
 ---
 
