@@ -8,14 +8,18 @@
 🔗 Portfolio: [Link to Portfolio](https://vigneshn877.wixsite.com/vignesh-n) *(replace with actual link if available)*  
 
 ---
-**JAVA**<img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-**HTML** <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-**CSS** <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-**JAVA SCRIPT** <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-**MANGO DB**<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-**Express JS**<img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
-**React JS**<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-**Node JS**<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+
+
+<img width="50" height="50" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+
+
 
 ---
 
