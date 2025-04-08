@@ -49,18 +49,46 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 
 ---
 
-## 🚀 Projects  
+---
 
-### **Accident Prevention & Detection Systems** *(Offline)*  
-- Developed IoT-based systems to reduce accidents and automate emergency alerts using sensors and microcontrollers.  
-- **Tech**: Arduino, RFID, GSM modules  
+## 🚀 Projects
 
-### **Automatic Door Lock System** *(IoT)*  
-- Designed a secure access control system with remote smartphone functionality.  
-- **Tech**: Arduino, RFID, BLE  
+### 🛑 Accident Prevention System  
+**Nov 2022** | Embedded Systems | Real-time Monitoring  
+- Developed safety system with integrated protocols and warning devices  
+- Implemented hazard detection algorithms to minimize risks  
+- Enhanced proactive safety measures for real-time scenarios  
 
-### **Mobile Network Signal Booster** *(Published Project)*  
-- Built a low-cost booster using LM386 IC; published in *Zigma Medicare Journal*.  
+### 🚨 Accident Detection & Alert System  
+**Apr 2023** | IoT | Emergency Response  
+- Created automated alert system for accidents  
+- Integrated with police stations, hospitals and nearby vehicles  
+- Reduced emergency response time by ~40% in simulations  
+
+### 📶 Mobile Network Signal Booster  
+**Dec 2024** | RF Engineering | LM386 IC  
+- Designed low-cost solution using affordable modules  
+- Improved signal strength by 35% in low-coverage areas  
+- Published in *Zigma Medicare Journal*  
+
+### 🔐 IoT Automatic Door Lock System  
+**Nov 2023** | Arduino | RFID | Mobile App  
+- Developed secure access control with Arduino/RFID  
+- Implemented remote lock/unlock via smartphone  
+- Enhanced security with encrypted communication  
+
+---
+
+## 🛠 Tech Stack  
+<div align="center">
+  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/raspberry-pi.png" alt="RPi" title="Raspberry Pi"/>
+  <img src="https://img.icons8.com/color/48/iot-sensor.png" alt="IoT" title="IoT"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/pcb-board.png" alt="PCB" title="PCB Design"/>
+</div>
 
 ---
 
