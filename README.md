@@ -15,16 +15,18 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 
 ---
 
-## 🛠 Skills  
+---
+
+## 🛠 **Skills**  
 
 ### **Technical**  
-- **Programming**: Java, Python, JavaScript (Full Stack Development)  
-- **PCB Design**: Eagle, EasyEDA, KiCad (Single-layer PCB fabrication)  
+- **Programming**: Java, Python, JavaScript (Full Stack)  
+- **PCB Design**: Eagle, EasyEDA, KiCad (Single-layer PCB Fabrication)  
 - **IoT**: Arduino, RFID, Sensor Integration  
 - **Cloud/DB**: AWS, MongoDB  
-- **Tools**: VS Code, Git, Canva
----
-### 🛠 **Skills**  
+- **Tools**: VS Code, Git, Canva  
+
+### **Visual Skills**  
 <div align="center">  
   <img width="48" height="48" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/>  
@@ -36,7 +38,9 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/aws.png" alt="AWS" title="AWS"/>  
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" title="Arduino"/>  
 </div>  
+
 ---
 
 ### **Certifications**  
