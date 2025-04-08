@@ -5,7 +5,7 @@
 🌍 Location: Coimbatore, India  
 🔗 GitHub: [Vignesh.N](https://github.com/VIGNESHN877)  
 🔗 LinkedIn: [VIGNESH.N](https://www.linkedin.com/in/vignesh-n-snsce/)  
-🔗 Portfolio: [Link to Portfolio](https://vigneshn877.wixsite.com/vignesh-n) *(replace with actual link if available)*  
+🔗 Portfolio: [Link to Portfolio](https://vigneshn877.wixsite.com/vignesh-n) 
 
 
 ---
@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me  
 ECE graduate (2026) from SNS College of Engineering with hands-on experience in **PCB design, IoT, and Full Stack Development**. Passionate about building hardware-software integrated solutions to solve real-world problems. Active contributor to open-source projects and tech workshops.  
 
----
 
 ---
 
@@ -97,5 +96,3 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESHN877&bg_color=cbcbd2&color=9e4c98&line=f42710&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-📌 *For collaboration or queries, reach out via email or GitHub!*  
