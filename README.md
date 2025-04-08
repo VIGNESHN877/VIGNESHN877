@@ -49,8 +49,6 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
 
 ---
 
----
-
 ## 🚀 Projects
 
 ### 🛑 Accident Prevention System  
