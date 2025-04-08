@@ -86,10 +86,10 @@ ECE graduate (2026) from SNS College of Engineering with hands-on experience in 
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" title="Arduino"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
   <img src="https://img.icons8.com/color/48/raspberry-pi.png" alt="RPi" title="Raspberry Pi"/>
-  <img src="https://img.icons8.com/color/48/iot-sensor.png" alt="IoT" title="IoT"/>
+  <img width="64" height="64" src="https://img.icons8.com/external-flat-wichaiwi/64/external-iot-internet-of-things-flat-wichaiwi.png" alt="external-iot-internet-of-things-flat-wichaiwi" title="IOT"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/pcb-board.png" alt="PCB" title="PCB Design"/>
+  <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-pcb-edutainment-flaticons-lineal-color-flat-icons.png" alt="external-pcb-edutainment-flaticons-lineal-color-flat-icons" title="PCB Design"/>
 </div>
 
 ---
